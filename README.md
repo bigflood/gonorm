@@ -1,0 +1,2 @@
+# gonorm
+golang normal distributions
